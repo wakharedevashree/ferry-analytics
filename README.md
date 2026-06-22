@@ -4,6 +4,8 @@ Operational analytics project for Toronto Island Ferry ticket data
 (Jack Layton Ferry Terminal: Centre Island, Hanlan's Point, Ward's Island),
 covering 2015-2025.
 
+Link : https://ferry-analytics-fd5ksnhherxf9drwusrvph.streamlit.app/
+
 ## Folder structure
 
 ```
